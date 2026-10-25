@@ -1,0 +1,10 @@
+#Test 1 (4 10) Maximum total value = 150
+#Test 2 (5 15) Maximum total value = 100
+#Test 3 (6 12) Maximum total value = 150
+#Test 4 (5 8) Maximum total value = 90
+#Test 5 (7 20) Maximum total value = 122
+#Test 6 (4 6) Maximum total value = 90
+#Test 7 (5 25) Maximum total value = 47
+#Test 8 (6 18) Maximum total value = 95
+#Test 9 (8 30) Maximum total value = 290
+#Test 10 (10 50) Maximum total value = 100
